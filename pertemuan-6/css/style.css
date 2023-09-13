@@ -1,0 +1,31 @@
+* {
+    font-family: Arial;
+}
+
+i {
+    color: green;
+}
+
+i {
+    color: red;
+}
+
+b {
+    color: pink;
+}
+
+p b {
+    color: brown !important;
+}
+
+p b {
+    color: blue;
+}
+
+p {
+    font-size: 100%;
+}
+
+p#pendahuluan {
+    font-size: 75%;
+}
