@@ -1,0 +1,43 @@
+* {
+    font-family: Tahoma;
+}
+
+h1 {
+    padding: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.artikel {
+    padding: 10px;
+    font-size: 50px;
+    background-color: black;
+    color: #efefef;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 10px;
+    background-color: gainsboro;
+    text-align: center;
+    padding: 5px;
+}
+
+h3 span {
+    font-family: Arial;
+    font-size: 14px;
+    padding: 5px;
+}
+
+/* merubah span */
+
+span {
+    color: blue;
+}
+
+p {
+    text-align: justify;
+}
+
+
+
